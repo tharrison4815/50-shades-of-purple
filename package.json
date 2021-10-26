@@ -3,10 +3,14 @@
   "displayName": "50 Shades of Purple",
   "description": "A subtle purple theme",
   "icon": "images/logo.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "url": "https://github.com/tharrison4815/50-shades-of-purple"
   },
+  "keywords": [
+    "subtle",
+    "purple"
+  ],
   "publisher": "re7rix2",
   "engines": {
     "vscode": "^1.61.0"
