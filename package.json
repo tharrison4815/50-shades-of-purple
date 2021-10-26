@@ -1,0 +1,29 @@
+{
+  "name": "50-shades-of-purple",
+  "displayName": "50 Shades of Purple",
+  "description": "",
+  "icon": "logo.png",
+  "version": "1.0.1",
+  "publisher": "re7rix2",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "50 Shades of Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/50 Shades of Purple-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "77f0a0df-6d09-4ffd-92fd-26ab1be20c2b",
+    "publisherId": "01b371d3-65d0-4916-9e42-4c2985c1292f",
+    "publisherDisplayName": "re7rix",
+    "installedTimestamp": 1634897876203
+  }
+}
