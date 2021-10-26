@@ -3,7 +3,10 @@
   "displayName": "50 Shades of Purple",
   "description": "",
   "icon": "images/logo.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "url": "https://github.com/tharrison4815/50-shades-of-purple"
+  },
   "publisher": "re7rix2",
   "engines": {
     "vscode": "^1.61.0"
