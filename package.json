@@ -2,7 +2,7 @@
   "name": "50-shades-of-purple",
   "displayName": "50 Shades of Purple",
   "description": "",
-  "icon": "logo.png",
+  "icon": "images/logo.png",
   "version": "1.0.1",
   "publisher": "re7rix2",
   "engines": {
