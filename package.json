@@ -1,9 +1,9 @@
 {
   "name": "50-shades-of-purple",
   "displayName": "50 Shades of Purple",
-  "description": "",
+  "description": "A subtle purple theme",
   "icon": "images/logo.png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "url": "https://github.com/tharrison4815/50-shades-of-purple"
   },
