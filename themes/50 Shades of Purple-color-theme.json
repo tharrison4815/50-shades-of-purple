@@ -1901,6 +1901,7 @@
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumb.focusForeground": "#e0e0e0",
     "editorGroupHeader.tabsBackground": "#252526",
+    "editorGroupHeader.tabsBorder": "#635979",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#252526",
     "tab.activeBackground": "#1e1e1e",
