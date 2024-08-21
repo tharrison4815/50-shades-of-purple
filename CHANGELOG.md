@@ -8,3 +8,7 @@ colourization feature
 ## 1.0.8
 
 Added colours for checkboxes to support the new merge conflict UI
+
+## 1.0.9
+
+Rename to "Slightly Purple"

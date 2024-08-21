@@ -1,4 +1,4 @@
-# 50 Shades of Purple
+# Slightly Purple
 
 A subtle purple theme for VS Code
 
