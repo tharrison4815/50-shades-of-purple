@@ -1,9 +1,9 @@
 {
   "name": "50-shades-of-purple",
-  "displayName": "50 Shades of Purple",
+  "displayName": "Slightly Purple",
   "description": "A subtle purple theme",
   "icon": "images/logo.png",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "repository": {
     "url": "https://github.com/tharrison4815/50-shades-of-purple"
   },
@@ -21,7 +21,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "50 Shades of Purple",
+        "label": "Slightly Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/50 Shades of Purple-color-theme.json"
       }
